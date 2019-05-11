@@ -29,4 +29,4 @@ client.user.setStatus("dnd")
 
 
 
-client.login("توكن البوت");
+client.login("BOT_TOKEN");
